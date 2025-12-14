@@ -1,5 +1,7 @@
 # ARK Mod Spawn Code Generator
 
+![Image](https://github.com/user-attachments/assets/b5653971-29b2-42c8-a381-f8ce9680495a)
+
 A simple yet powerful tool designed to generate spawn codes for **ARK: Survival Evolved** mods by scanning the mod's asset files.
 
 ## Features
@@ -17,3 +19,4 @@ A simple yet powerful tool designed to generate spawn codes for **ARK: Survival 
 2.  Run the program.
 3.  Wait for the process to finish (it scans all subdirectories).
 4.  Open the newly created `SpawnCode.txt` file to find your codes.
+
